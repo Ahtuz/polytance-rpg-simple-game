@@ -1,0 +1,7 @@
+﻿  polytance.cpp
+c:\users\albertus heronius\documents\visual studio 2010\projects\polytance-oop-game\polytance-oop-game\polytance.cpp(172): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\albertus heronius\documents\visual studio 2010\projects\polytance-oop-game\polytance-oop-game\polytance.cpp(377): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\albertus heronius\documents\visual studio 2010\projects\polytance-oop-game\polytance-oop-game\polytance.cpp(523): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\albertus heronius\documents\visual studio 2010\projects\polytance-oop-game\polytance-oop-game\polytance.cpp(714): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\albertus heronius\documents\visual studio 2010\projects\polytance-oop-game\polytance-oop-game\polytance.cpp(860): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  polytance-oop-game.vcxproj -> C:\Users\Albertus Heronius\Documents\Visual Studio 2010\Projects\polytance-oop-game\Debug\polytance-oop-game.exe
